@@ -1,6 +1,5 @@
 ### Hola! 👋
-- 🔭 Working on Pki and Ldap
-- 🌱 learning VSCode
+- 🔭 Working on Pki, Ldap, Python & Azure
 
 <!--
 **steveclarkhub/steveclarkhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
