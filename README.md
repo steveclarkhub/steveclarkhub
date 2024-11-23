@@ -1,4 +1,4 @@
-Analyst / solution developer working with observability, devOps and cybersecurity.
+Analyst / solution developer working with observability, devops and cybersecurity.
 
 <!--
 **steveclarkhub/steveclarkhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
