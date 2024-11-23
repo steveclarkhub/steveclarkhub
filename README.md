@@ -1,5 +1,4 @@
-### Hola! 👋
-- 🔭 Working on Telemetry, Ldap, (Python | PowerShell | Azure) Automation
+Analyst / solution developer working with observability, devOps and cybersecurity.
 
 <!--
 **steveclarkhub/steveclarkhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
